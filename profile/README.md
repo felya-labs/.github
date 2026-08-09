@@ -4,7 +4,7 @@ FELYA develops PATON, a haptic interface for intuitive interaction with robots a
 
 - [Discover FELYA](https://felya.com)
 - [Explore the FELYA Brand Guide](https://brand.felya.com)
-- [Preview the latest website](https://preview.felya.com)
+
 
 ## Public repositories
 
