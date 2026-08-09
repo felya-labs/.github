@@ -1,13 +1,15 @@
 [![PATON haptic glove](assets/paton-banner.png)](https://felya.com)
 
-FELYA develops PATON, a haptic interface for intuitive interaction with robots and remote systems.
+FELYA is building PATON, a haptic interface that makes remote robotic work tangible, intuitive and precise.
+
+PATON gives operators a direct sense of interaction with robots and remote systems — even when the work happens far beyond physical reach.
 
 ## Explore FELYA
 
 | Destination | Purpose |
 |---|---|
-| [**felya.com**](https://felya.com) | Meet FELYA, PATON and the systems we are building |
-| [**FELYA Brand Guide**](https://brand.felya.com) | Explore our visual language, design tokens and assets |
+| [**felya.com**](https://felya.com) | Discover FELYA, PATON and our approach to haptic interaction |
+| [**FELYA Brand Guide**](https://brand.felya.com) | Explore our visual system, design tokens and brand assets |
 
 ## Published on GitHub
 
@@ -19,4 +21,4 @@ FELYA develops PATON, a haptic interface for intuitive interaction with robots a
 
 ## Work with us
 
-Interested in haptics, robotics, embodied interfaces or remote physical work? Visit [felya.com](https://felya.com) or contact [info@felya.com](mailto:info@felya.com).
+Interested in haptics, robotics, embodied interfaces or the future of remote physical work? Explore [felya.com](https://felya.com) or contact [info@felya.com](mailto:info@felya.com).
